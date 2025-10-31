@@ -1,0 +1,6 @@
+
+# Secrets
+.env
+**/*.env
+hello_ai/.env
+.ipynb_checkpoints/
